@@ -1,0 +1,15 @@
+int m=10;
+int n=6;
+if (m+n>15)
+{
+    Console.WriteLine("好大我最愛");
+}
+else if(m+n>10)
+{
+    Console.WriteLine("你好壞");
+}
+else
+{
+    Console.WriteLine("太小了");
+}
+1
