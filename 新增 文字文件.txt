@@ -1,0 +1,6 @@
+int m=10;
+int n=6;
+if (m+n>15)
+{
+    Console.WriteLine("好大我最愛");
+}
